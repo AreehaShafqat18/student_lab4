@@ -36,3 +36,4 @@ python -m pip install -r requirements.txt
 ```bash
 python your_lab_file.py
 ```
+GitHub pull practice
